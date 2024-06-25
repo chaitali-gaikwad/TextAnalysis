@@ -12,7 +12,8 @@ Shiny, shinydashboard, tidyverse, wordcloud, RColorBrewer, pdftools, plotly
 
 Output:
 
-Dashboard
+Dashboard:
+
 ![alt text](https://github.com/chaitali-gaikwad/TextAnalysis/blob/main/Output/HomePage.png?raw=true)
 
 Method 1: Text Analysis using uploaded file
