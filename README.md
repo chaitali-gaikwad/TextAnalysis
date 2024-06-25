@@ -10,7 +10,7 @@ The aim of the proposed solution is to provide users with an intuitive and effic
 Technology Used
 Shiny, shinydashboard, tidyverse, wordcloud, RColorBrewer, pdftools, plotly
 
-Output:
+## Output:
 
 Dashboard:
 
