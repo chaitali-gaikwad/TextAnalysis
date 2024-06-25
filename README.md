@@ -9,3 +9,11 @@ The aim of the proposed solution is to provide users with an intuitive and effic
 
 Technology Used
 Shiny, shinydashboard, tidyverse, wordcloud, RColorBrewer, pdftools, plotly
+
+Output:
+
+Method 1: Text Analysis using uploaded file
+![alt text](?raw=true)
+
+Method 2: Text Analysis using textbox
+![alt text](?raw=true)
