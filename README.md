@@ -12,17 +12,17 @@ Shiny, shinydashboard, tidyverse, wordcloud, RColorBrewer, pdftools, plotly
 
 ## Output:
 
-Dashboard:
+### Dashboard:
 
 ![alt text](https://github.com/chaitali-gaikwad/TextAnalysis/blob/main/Output/HomePage.png?raw=true)
 
-Method 1: Text Analysis using uploaded file
+### Method 1: Text Analysis using uploaded file
 ![alt text](https://github.com/chaitali-gaikwad/TextAnalysis/blob/main/Output/Method1/mostCommonWord.png?raw=true)
 ![alt text](https://github.com/chaitali-gaikwad/TextAnalysis/blob/main/Output/Method1/wordCloud.png?raw=true)
 ![alt text](https://github.com/chaitali-gaikwad/TextAnalysis/blob/main/Output/Method1/sentimentAnalysis.png?raw=true)
 ![alt text](https://github.com/chaitali-gaikwad/TextAnalysis/blob/main/Output/Method1/emotionEmoji.png?raw=true)
 
-Method 2: Text Analysis using textbox
+### Method 2: Text Analysis using textbox
 ![alt text](https://github.com/chaitali-gaikwad/TextAnalysis/blob/main/Output/Method2/mostCommonWord.png?raw=true)
 ![alt text](https://github.com/chaitali-gaikwad/TextAnalysis/blob/main/Output/Method2/wordCloud.png?raw=true)
 ![alt text](https://github.com/chaitali-gaikwad/TextAnalysis/blob/main/Output/Method2/sentimentAnalysis.png?raw=true)
